@@ -1,0 +1,6 @@
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21.Classes\bin\Debug\Devs2Blu.Projeto.JogoDo21.Classes.dll
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21.Classes\bin\Debug\Devs2Blu.Projeto.JogoDo21.Classes.pdb
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21.Classes\obj\Debug\Devs2Blu.Projeto.JogoDo21.Classes.csproj.AssemblyReference.cache
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21.Classes\obj\Debug\Devs2Blu.Projeto.JogoDo21.Classes.csproj.CoreCompileInputs.cache
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21.Classes\obj\Debug\Devs2Blu.Projeto.JogoDo21.Classes.dll
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21.Classes\obj\Debug\Devs2Blu.Projeto.JogoDo21.Classes.pdb

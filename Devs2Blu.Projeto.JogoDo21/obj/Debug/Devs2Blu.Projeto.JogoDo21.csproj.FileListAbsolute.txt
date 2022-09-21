@@ -1,0 +1,14 @@
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\bin\Debug\Devs2Blu.Projeto.JogoDo21.exe.config
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\bin\Debug\Devs2Blu.Projeto.JogoDo21.exe
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\bin\Debug\Devs2Blu.Projeto.JogoDo21.pdb
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\obj\Debug\Devs2Blu.Projeto.JogoDo21.csproj.AssemblyReference.cache
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\obj\Debug\Devs2Blu.Projeto.JogoDo21.csproj.SuggestedBindingRedirects.cache
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\obj\Debug\Devs2Blu.Projeto.JogoDo21.Properties.Resources.resources
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\obj\Debug\Devs2Blu.Projeto.JogoDo21.csproj.GenerateResource.cache
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\obj\Debug\Devs2Blu.Projeto.JogoDo21.csproj.CoreCompileInputs.cache
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\obj\Debug\Devs2Blu.Projeto.JogoDo21.exe
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\obj\Debug\Devs2Blu.Projeto.JogoDo21.pdb
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\obj\Debug\Devs2Blu.Projeto.JogoDo21.jnlJogoDo21.resources
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\bin\Debug\Devs2Blu.Projeto.JogoDo21.Classes.dll
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\bin\Debug\Devs2Blu.Projeto.JogoDo21.Classes.pdb
+C:\devs2blu\IntroWindowsForms\SlnJogo21\Devs2Blu.Projeto.JogoDo21\obj\Debug\Devs2Blu.Projeto.JogoDo21.csproj.CopyComplete
