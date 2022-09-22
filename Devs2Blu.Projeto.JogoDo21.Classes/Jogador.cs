@@ -8,10 +8,16 @@ namespace Devs2Blu.Projeto.JogoDo21.Classes
 {
     public class Jogador
     {
-        public int Id { get; set; }
-        public int Pontuacao { get; set; }
-        public int NumeroRodada { get; set; }
-        public int NumRodadaSoma { get; set; }
+        public Int32 Id { get; set; }
+        public Int32 Pontuacao { get; set; }
+        public Int32 NumeroRodada { get; set; }
+        public Int32 NumRodadaSoma { get; set; }
+        public Jogador()
+        {
+            QuantidadeJogadores = 1;
+            Id = getQuantidadeJogadores();
+            Pontuacao = 0;
+        }
         public void CalculaPontosRodada(int randomNum)
         {
             int soma = NumeroRodada + randomNum;
@@ -56,10 +62,11 @@ namespace Devs2Blu.Projeto.JogoDo21.Classes
             }
 
         }
-        public void GeraRandomNum()
+        public void ResetJogador()
         {
-            Random rd = new Random();
-            NumeroRodada = rd.Next(1, 20);
+            Pontuacao = 0;
+            NumeroRodada = 0;
+            NumRodadaSoma = 0;
         }
     }
 }

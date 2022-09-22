@@ -100,7 +100,6 @@
             this.btnEnviaNumeroJogador.TabIndex = 4;
             this.btnEnviaNumeroJogador.Text = "Dale";
             this.btnEnviaNumeroJogador.UseVisualStyleBackColor = true;
-            this.btnEnviaNumeroJogador.Click += new System.EventHandler(this.btnEnviaNumeroJogador_Click);
             // 
             // tbNumeroJogador
             // 
@@ -170,7 +169,6 @@
             this.btnIniciarRodada.TabIndex = 3;
             this.btnIniciarRodada.Text = "Jogar Rodada";
             this.btnIniciarRodada.UseVisualStyleBackColor = true;
-            this.btnIniciarRodada.Click += new System.EventHandler(this.btnIniciarRodada_Click);
             // 
             // lbRodada
             // 
@@ -301,7 +299,6 @@
             this.btnReset.TabIndex = 9;
             this.btnReset.Text = "Reset";
             this.btnReset.UseVisualStyleBackColor = true;
-            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // txtbConsole
             // 
